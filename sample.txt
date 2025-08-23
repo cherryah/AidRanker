@@ -1,0 +1,152 @@
+[
+  {
+    "school": "مدرسة دمشق الإعدادية النموذجية",
+    "requested_by": "أحمد العلي",
+    "description": "سقط سقف الصف العلوي جزئياً بعد عاصفة الأمس، مما أدى لتسرب الماء على المقاعد والسبورة، ونحتاج إلى إصلاحات هيكلية عاجلة قبل استئناف الفصول الدراسية."
+  },
+  {
+    "school": "مدرسة حلب الثانوية النموذجية",
+    "requested_by": "سارة خليل",
+    "description": "نظراً لزيادة عدد الطلاب في الصف الثالث، نواجه نقصاً حاداً في الكراسي والطاولات؛ حالياً يجلس بعضهم على الأرض، ونطلب توفير 25 طاولة و75 كرسي حتى نهاية الشهر."
+  },
+  {
+    "school": "مدرسة حمص العلمية الإعدادية",
+    "requested_by": "علي حمود",
+    "description": "Our science lab's main compound microscope suffered irreparable damage last week during an experiment; without it, students لا يستطيعون إجراء أي تحاليل، so we urgently need to purchase a replacement with at least 1000× magnification."
+  },
+  {
+    "school": "مدرسة اللاذقية المتوسطة النموذجية",
+    "requested_by": "ليندا سليم",
+    "description": "مكتبة المدرسة تحتوي على أقل من 50 كتاب إنجليزي لتغطية مقررات الفصل الأول للفرقة الثانية، مما يضطر الطلاب للاستعارة من المنزل، ونحتاج تمويلاً لشراء 200 عنوان جديد في أقرب فرصة."
+  },
+  {
+    "school": "مدرسة حماة الأساسية للبنين",
+    "requested_by": "عمر ناصيف",
+    "description": "طلبنا اليوم توفير وجبات غداء ساخنة يومية لـ120 طالباً من الأسر ذات الدخل المحدود؛ بدون هذه الوجبات، يعاني الطلاب من الجوع خلال اليوم الدراسي ويؤثر ذلك على تحصيلهم الأكاديمي."
+  },
+  {
+    "school": "مدرسة طرطوس التقنية",
+    "requested_by": "يارا حمد",
+    "description": "Need 10 high-performance desktop computers (Intel i5, 8 GB RAM, 256 GB SSD) for the IT lab to run programming environments and graphic design software; currently we have only 3 outdated units."
+  },
+  {
+    "school": "مدرسة دير الزور للبنات",
+    "requested_by": "باسل الكيلاني",
+    "description": "المراحيض في مبنى البنات مهترئة تماماً وبدون أبواب أو مقاعد صحية مناسبة؛ نطلب ترميمها بالكامل مع تركيب سيراميك جديد وصيانة شبكات الصرف الصحي."
+  },
+  {
+    "school": "مدرسة الحسكة الابتدائية النموذجية",
+    "requested_by": "ديمة الشهابي",
+    "description": "Requesting installation of school-wide Wi-Fi covering all الفصول والممرات، with سرعة لا تقل عن 50 Mbps لدعم التعلم الرقمي وإجراء البث المباشر للدروس عند الحاجة."
+  },
+  {
+    "school": "مدرسة ريف دمشق المختلطة",
+    "requested_by": "سامر يوسف",
+    "description": "After the recent storm the roof above مختبر الكومبيوتر تضرر بشدة، مما يسبب تسرب المياه إلى الأجهزة الحساسة؛ مطلوب صيانة عاجلة لمنع حدوث قصر كهربائي أو تلف للمعدات."
+  },
+  {
+    "school": "مدرسة القنيطرة الإعدادية",
+    "requested_by": "ليلى الدندل",
+    "description": "نحتاج إلى جهاز لطباعة ونسخ مستندات بدقة عالية (600 dpi) وسرعة لا تقل عن 30 صفحة في الدقيقة، ليُستخدم في المكاتب الإدارية والتربوية يومياً."
+  },
+  {
+    "school": "مدرسة الساحل الغربي النموذجية",
+    "requested_by": "مازن قاسم",
+    "description": "Our only school bus broke down last week with engine failure; we have 60 students يعتمدون على النقل يومياً، so funding for repair or purchase of a used bus is critical."
+  },
+  {
+    "school": "مدرسة السلمية الثانوية",
+    "requested_by": "ندى خوري",
+    "description": "طلبنا اليوم تمويل لشراء معدات رياضية جديدة تشمل كرات كرة قدم وكرة سلة وطاولات تنس طاولة وحصائر جمباز، لدعم الأنشطة البدنية وتعزيز الصحة العامة للطلاب."
+  },
+  {
+    "school": "مدرسة الغوطة الشرقية الأساسية",
+    "requested_by": "كريم منصور",
+    "description": "Need a reliable water filtration system that can produce at least 500 liters per hour of potable water for الطلاب خلال أوقات الاستراحة، نظراً لعدم توفر ماء صالح للشرب في المبنى الرئيسي."
+  },
+  {
+    "school": "مدرسة إدلب النموذجية المتقدمة",
+    "requested_by": "رنا شيخو",
+    "description": "مختبر الكيمياء يفتقر إلى المواد الأساسية مثل الأحماض القوية (HCl, H₂SO₄) والأجهزة الزجاجية (Beakers, Erlenmeyer flasks)، مما يمنع إجراء التجارب المخبرية المقررة للفصل."
+  },
+  {
+    "school": "مدرسة نقطة الشام الشاملة",
+    "requested_by": "مصطفى بركات",
+    "description": "Help fund installation of wheelchair ramps and handrails at مدخل المدرسة ومداخل الفصول الأرضية، لضمان سهولة وصول ذوي الإعاقة ولتطبيق معايير الشمول."
+  },
+  {
+    "school": "مدرسة البحيرة النموذجية",
+    "requested_by": "ريم العبدالله",
+    "description": "Need solar panel setup (1 kW) on سقف المبنى لتزويد الإضاءة والطاقة الأساسية خلال انقطاع الكهرباء المتكرر في المنطقة، مما سيخفض فواتير الكهرباء بشكل كبير."
+  },
+  {
+    "school": "مدرسة الميادين الإعدادية",
+    "requested_by": "طلال المالح",
+    "description": "طلب دفاتر وكتب مدرسية لـ150 طالباً من ذوي الدخل المحدود، وتغطي كافة المواد من الرياضيات إلى العلوم واللغة العربية، لضمان عدم حرمانهم من أدوات التعلم الأساسية."
+  },
+  {
+    "school": "مدرسة صيدنايا المتوسطة",
+    "requested_by": "نسرين الساعاتي",
+    "description": "Request new blackboards and smart whiteboards for 12 classrooms, so teachers can استخدام التكنولوجيا في الشرح وعرض الوسائط المتعددة بوضوح للطلاب."
+  },
+  {
+    "school": "مدرسة منبج الأساسية",
+    "requested_by": "فهد شوكت",
+    "description": "Playground slides and swings are broken and rusty, posing safety hazards؛ نرجو تمويل إزالة المعدات القديمة وتركيب بدائل آمنة ومقاومة للعوامل الجوية."
+  },
+  {
+    "school": "مدرسة تدمر المتوسطة النموذجية",
+    "requested_by": "جوى علي",
+    "description": "نحتاج إلى دهان جديد مقاوم للرطوبة لجميع الفصول والجدران الخارجية، بما في ذلك طلاء مقاوم للعفن، لتحسين بيئة التعلم والحفاظ على المرفق لأطول فترة."
+  },
+  {
+    "school": "مدرسة درعا التقنية",
+    "requested_by": "هشام صالح",
+    "description": "Funds needed to organize and host teacher training workshops on modern pedagogical methods and digital tools; نحن بحاجة إلى تغطية تكاليف المحاضرين والمواد والأجهزة."
+  },
+  {
+    "school": "مدرسة سرغايا النموذجية",
+    "requested_by": "داليا أكّار",
+    "description": "Need translation headsets and receivers for language classes, enabling simultaneous interpretation between English and Arabic during الدروس التفاعلية وجلسات التبادل الطلابي."
+  },
+  {
+    "school": "مدرسة تل أبيض الإعدادية",
+    "requested_by": "باسم أبو الخير",
+    "description": "طلب حجز فنادق وحافلات لرحلة علمية إلى المتحف الوطني لـ50 طالباً، تشمل تكلفة الإقامة والنقل والإرشاد، لدعم التعلم خارج الصف التقليدي."
+  },
+  {
+    "school": "مدرسة السيدة زينب الابتدائية",
+    "requested_by": "شهد القاسم",
+    "description": "Urgent funding required for student scholarship program to cover الرسوم الدراسية لأفضل 20 طالباً في مدرسة المجاورة دون القدرة على الدفع."
+  },
+  {
+    "school": "مدرسة زاكا النموذجية",
+    "requested_by": "زياد العيسى",
+    "description": "مبنى الصفوف تضرر جزئياً بعد حريق صغير في المختبر المجاور، نحتاج إلى إصلاح الجدران واستبدال النوافذ المتصدعة وإعادة تأهيل الأنظمة الكهربائية."
+  },
+  {
+    "school": "مدرسة قرى الأكراد الثانوية",
+    "requested_by": "ديما جمال",
+    "description": "Need musical instruments (flutes, drums, violins) and sound equipment for the school band to participate in فعاليات ثقافية ومحافل محلية، مما يعزز المواهب الفنية لدى الطلاب."
+  },
+  {
+    "school": "مدرسة اليرموك الأساسية",
+    "requested_by": "يوسف الحمصي",
+    "description": "طلب لوازم معمل الأحياء مثل المجاهر الدقيقة والمحاقن والأوعية الزجاجية؛ بدون هذه المستلزمات لا يمكن إجراء تجارب علمية ويُفقد الطلاب فرص التعلم العملي."
+  },
+  {
+    "school": "مدرسة ساحة الأمويين النموذجية",
+    "requested_by": "نادين الرفاعي",
+    "description": "Request art supplies—paints, brushes, canvases, sketchbooks—for the annual art exhibition; نحن بحاجة لتغطية تكاليف المواد للطلاب من المستوى المتوسط."
+  },
+  {
+    "school": "مدرسة النيلية المتوسطة",
+    "requested_by": "محمود خضير",
+    "description": "Flooring in the main corridor is cracked and uneven، مما يشكل خطراً على تنقل الطلاب يومياً؛ نحتاج لتجديد البلاط أو تركيب أرضيات آمنة مقاومة للانزلاق."
+  },
+  {
+    "school": "مدرسة بصرى الحرارية النموذجية",
+    "requested_by": "هدى المصري",
+    "description": "طلب نظام تدفئة شتوي (radiators or central heating) لتغطية فصل الشتاء البارد، حيث تنخفض درجات الحرارة إلى أقل من 5 °C وتشكل مخاطرة على صحة الأطفال."
+  }
+]
