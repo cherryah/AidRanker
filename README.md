@@ -150,7 +150,7 @@ The application includes sample Arabic aid requests for schools covering:
 - Equipment needs (microscopes, furniture)
 - Educational resources (books, materials)
 - Food services (meal programs)
-![Demo Of A Sample](./images/frontend.png)  
+![Demo Of A Sample](./frontend.png)  
 ## Testing
 
 ### Backend Testing
@@ -188,21 +188,21 @@ This section summarizes the zero-shot urgency classifier’s behavior on a 50-sa
 ---
 
 ## 1. Aggressive Urgency vs. Funding Progress  
-![Aggressive Urgency Score vs. Percent of Budget Covered](./images/aggressive_vs_percent.png)  
+![Aggressive Urgency Score vs. Percent of Budget Covered](./aggressive_vs_percent.png)  
 - **Trend:** Higher funding‐progress boosts the “aggressive” urgency score (model_confidence × (1 + %covered)).  
 - **Variation:** Even at the same funding level, scores vary, showing that the model is also reacting to the request text.
 
 ---
 
 ## 2. Distribution of Aggressive Urgency Scores  
-![Distribution of Aggressive Urgency Scores](./images/distribution_aggressive_scores.png)  
+![Distribution of Aggressive Urgency Scores](./distribution_aggressive_scores.png)  
 - Scores range roughly from **0.4** to **1.8**.  
 - The bulk (≈ 35/50) of requests fall between **0.4 – 0.8**, with a tail of high scores where %covered is large.
 
 ---
 
 ## 3. Count of Urgency Labels  
-![Count of Urgency Labels](./images/label_counts.png)  
+![Count of Urgency Labels](./label_counts.png)  
 - **Low urgency:** 28 requests  
 - **Medium urgency:** 19 requests  
 - **High urgency:**  3 requests  
@@ -211,7 +211,7 @@ This section summarizes the zero-shot urgency classifier’s behavior on a 50-sa
 ---
 
 ## 4. Funding Progress vs. Aggressive Urgency by Label  
-![Funding Progress vs. Aggressive Urgency Score by Label](./images/percent_vs_aggressive_by_label.png)  
+![Funding Progress vs. Aggressive Urgency Score by Label](./percent_vs_aggressive_by_label.png)  
 - **Low urgency** points (green) cluster at lower scores and lower %covered.  
 - **Medium urgency** (blue) occupy the middle band.  
 - **High urgency** (orange) appear only when model_confidence is high **and** funding is near complete.
